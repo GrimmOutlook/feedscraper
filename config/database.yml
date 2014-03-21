@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: feedscraper_development
+
+test:
+  adapter: postgresql
+  database: feedscraper_test
